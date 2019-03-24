@@ -40,3 +40,7 @@ Cuisel has a built-in VIM emulator which means you can move the cursor using 'j'
 
 As you can see, the supported features are quite limited. So feel free to send me a pull request.
 
+# Related projects
+
+* [percol](https://github.com/mooz/percol)
+* [yank](https://github.com/mptre/yank)
